@@ -1,15 +1,18 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+######################################################################
+#                                                                    #
+#    Copyright (c) 2015 Elmar Hinz (github.com/elmar-hinz)           #
+#                                                                    #
+#    This script solves the programming assignment 2                 #
+#    of coursera rprog-032.                                          #
+#                                                                    #
+#    License: MIT (see LICENSE.txt)                                  #
+#                                                                    #
+######################################################################
 
 makeCacheMatrix <- function(x = matrix()) {
-
 }
 
-
-## Write a short comment describing this function
-
+# @return: matrix      A matrix that is the inverse of 'x'
 cacheSolve <- function(x, ...) {
-        ## Return a matrix that is the inverse of 'x'
 }
+
